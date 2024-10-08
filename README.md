@@ -18,10 +18,7 @@ The Mean Reversion Momentum Strategy is a trading strategy designed to capitaliz
    cd MeanReversion-Momentum-Strategy
    ```
 
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Install required dependencies (See: Install statements in code)
 
 ## Usage
 
